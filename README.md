@@ -5,4 +5,4 @@
 
 -All the files required to run the code have been uploaded here alongwith the dataset used; the project report includes the results and the methods employed to arrive at the results.
 
--Most of the files included here are necessary to run the LIBSVM but program files written for the project are marked with an asterisk. These files are included in libsvm-3.21/matlab. 
+-Most of the files included here are necessary to run the LIBSVM but program files written for the project are marked with #. These files are included in libsvm-3.21/matlab. 
